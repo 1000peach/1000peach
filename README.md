@@ -54,5 +54,7 @@
   <a href="https://velog.io/@1000peach" target="_blank" alt="1000peach.log">
     <img src="https://img.shields.io/badge/-Velog-20c997?logo=Vimeo&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/-Resume-000000?logo=Notion&logoColor=white" />
+  <a href="https://www.notion.so/1000peach/9191128509cd4b089f7a69fceea16f26" target="_blank" alt="resume">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?logo=Notion&logoColor=white" />
+  </a>
 </p>

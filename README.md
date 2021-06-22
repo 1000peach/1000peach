@@ -49,7 +49,7 @@
   📚
 </p>
 <p align="center">These are techs that I've used at least once.</p>
-<div align="center"
+<div align="center">
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black" />

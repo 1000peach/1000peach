@@ -22,7 +22,7 @@
 </p>
 <div align="center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=1000peach&color=dark)](https://github.com/eungyeole/velog-readme-stats)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=1000peach&color=dark)](https://velog.io/@1000peach)
   <ul align="center">
     
 </div>

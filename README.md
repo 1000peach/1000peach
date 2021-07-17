@@ -52,9 +52,14 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SCSS-CC6699?logo=Sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/-styled--components-DB7093?logo=styled-components&logoColor=white" />
+  <br />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white" />
   <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jQuery&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Next.js-black?logo=Next.js&logoColor=white" />
   <br />
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black" />
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white" />
